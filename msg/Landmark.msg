@@ -19,5 +19,5 @@ geometry_msgs/PoseStamped pose_stamped
 # If type == SURFACE_BOX, name is an arbitrary name like "Object 1"
 # If type == CUSTOM_LANDMARK, name is the name of the custom landmark
 string name
-geometry_msgs/Vector3 surface_box_dims # Dimensions of a tabletop box
+geometry_msgs/Vector3 surface_box_dims # Dimensions of a surface box
 uint32 ar_tag_id # The AR tag ID or master tag ID
