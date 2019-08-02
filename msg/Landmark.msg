@@ -6,7 +6,7 @@ string SURFACE_BOX = surface box
 # A custom landmark
 string CUSTOM_LANDMARK = custom landmark
 # An AR tag or tag bundle
-string AR_TAG = AR tag
+string AR_TAG = ar tag
 string type
 
 # Specifies the pose of the landmark.

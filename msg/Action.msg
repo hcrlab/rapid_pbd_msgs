@@ -12,6 +12,8 @@ string MOVE_TO_CARTESIAN_GOAL = move to cartesian goal
 string DETECT_SURFACE_OBJECTS = detect surface objects
 # Find a custom landmark
 string FIND_CUSTOM_LANDMARK = find custom landmark
+# Find AR tags
+string DETECT_AR_TAGS = detect ar tags
 
 string type
 
