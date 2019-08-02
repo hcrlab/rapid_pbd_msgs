@@ -15,7 +15,7 @@ string VIEW_STEP = view step
 
 # Robot actions to execute
 string DETECT_SURFACE_OBJECTS = detect surface objects
-string DETECT_AR_TAGS = detect ar tags
+string DETECT_AR_TAGS = detect AR tags
 string GET_JOINT_VALUES = get joint values
 string GET_POSE = get pose
 
